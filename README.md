@@ -1,7 +1,9 @@
 # Library Management System
 
 ### 
+### Entity Relationship Diamgram
 ![ER Diagram](./images/er.png)
+### Schema Diamgram
 ![Schema Diagram](./images/schema.png)
 
 
